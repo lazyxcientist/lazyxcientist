@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there! I'm Pankaj 
 
-<!--
-**lazyxcientist/lazyxcientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Robotics Developer | Startup Founder  
+I build intelligent robots and AI solutions that solve real-world challenges.  
+Founder of **[Xparo](xparo.me)** and **Lazy Legends Robotics**.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 **Skills & Tools**  
+- 🦾 **Robotics**: ROS2, MoveIt, Gazebo  
+- 🧠 **AI/ML**: Python, PyTorch, TensorFlow  
+- 🌐 **Web**: Flask, Django, React  
+- 🔧 **DevOps**: Docker, Ubuntu Core  
+- 🌍 **Mapping**: RTAB-Map, SLAM  
+
+
+---
+
+### 📫 **Connect with Me**  
+- 🐦 Twitter: [@your_handle](https://x.com/xpassistant)  
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/pankaj-jangir-xp/)  
+- 🌐 Website: [Protfolio ](https://xparo.me/aboutme)  
+
+---
+
+### 🚀 **Let's Build the Robotics revolution Together!**  
+Open to collaborations, contributions, and ideas. Let's create something amazing!  
