@@ -7,11 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00f1ff&center=true&vCenter=true&width=700&height=80&lines=🚀+Faster+GPT+response+with+Xparo;🤖+run+AI+brain+offline;⚙️+fully+customizable+AI+brain;🌌+Explore+Intelligent+robots" alt="Typing Animation">
 </div>
 
-
-### 🧠 **Who am I?**
-
-I'm **Pankaj Jangir** —  
-🚀 A **Robotics Developer** and founder of:  
+I'm a **Robotics Developer** and founder of:  
 - 🛠️ **[Xparo](https://xparo.me)**  <span style="color:grey">the ai brain</span>
 - 🤖 **[Lazy Legends Robotics](https://lazy-legends-robotics.azurewebsites.net/)**  
 
