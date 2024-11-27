@@ -31,6 +31,7 @@ I'm a **Robotics Developer** and founder of:
   <img src="https://img.shields.io/badge/Web-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/UI-shadcn-007acc?style=flat-square&logo=shadcn&logoColor=white"/>
 </p>
+
 ---
 
 ### 🌐 **Connect with Me**  
