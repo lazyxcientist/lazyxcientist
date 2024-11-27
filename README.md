@@ -31,7 +31,7 @@ I'm **Pankaj Jangir** —
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lazyxcientist&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lazyxcientist&theme=radical&hide_border=false&background=000000&stroke=00f1ff"/>
 </p>
 
 
