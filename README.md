@@ -12,7 +12,7 @@
 
 I'm **Pankaj Jangir** —  
 🚀 A **Robotics Developer** and founder of:  
-- 🛠️ **[Xparo Robotics](https://xparo.me)**  
+- 🛠️ **[Xparo](https://xparo.me)**  <span style="color:grey">the ai brain</span>
 - 🤖 **[Lazy Legends Robotics](https://lazy-legends-robotics.azurewebsites.net/)**  
 
 <p align="center">
