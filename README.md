@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00f1ff&center=true&vCenter=true&width=700&height=80&lines=🚀+Founder+of+Xparo+Robotics;🤖+AI+Innovator;⚙️+Building+the+Future+of+Automation;🌌+Exploring+Intelligent+Machines" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00f1ff&center=true&vCenter=true&width=700&height=80&lines=🚀+Faster+GPT+response+with+Xparo;🤖+run+AI+brain+offline;⚙️+fully+customizable+AI+brain;🌌+Explore+Intelligent+robots" alt="Typing Animation">
 </div>
 
 
@@ -30,11 +30,8 @@ I'm **Pankaj Jangir** —
   <img src="https://img.shields.io/badge/UI-shadcn-007acc?style=flat-square&logo=shadcn&logoColor=white"/>
 </p>
 
-
-### ⚡ **Stats & Activity**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lazyxcientist&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lazyxcientist&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 
