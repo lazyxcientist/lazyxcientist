@@ -11,6 +11,12 @@ I'm a **Robotics Developer** and founder of:
 - 🛠️ **[Xparo](https://xparo.me)**  <span style="color:grey">the ai brain</span>
 - 🤖 **[Lazy Legends Robotics](https://lazy-legends-robotics.azurewebsites.net/)**  
 
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lazyxcientist&theme=radical&hide_border=false&background=000000&stroke=00f1ff"/>
+</p>
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Robotics-ROS2-00f1f?style=flat-square&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/DevOps-Docker-0078D4?style=flat-square&logo=docker&logoColor=white"/>
@@ -25,12 +31,6 @@ I'm a **Robotics Developer** and founder of:
   <img src="https://img.shields.io/badge/Web-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/UI-shadcn-007acc?style=flat-square&logo=shadcn&logoColor=white"/>
 </p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lazyxcientist&theme=radical&hide_border=false&background=000000&stroke=00f1ff"/>
-</p>
-
-
 ---
 
 ### 🌐 **Connect with Me**  
