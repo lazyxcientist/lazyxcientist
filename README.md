@@ -7,10 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00f1ff&center=true&vCenter=true&width=700&height=80&lines=🚀+Faster+GPT+response+with+Xparo;🤖+run+AI+brain+offline;⚙️+fully+customizable+AI+brain;🌌+Explore+Intelligent+robots" alt="Typing Animation">
 </div>
 
-I'm a **Robotics Developer** and founder of:  
-- 🛠️ **[Xparo](https://xparo.me)**  <span style="color:grey">the ai brain</span>
-- 🤖 **[Lazy Legends Robotics](https://lazy-legends-robotics.azurewebsites.net/)**  
-
+I'm a **Robotics Developer** 
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lazyxcientist&theme=radical&hide_border=false&background=000000&stroke=00f1ff"/>
